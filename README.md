@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**RafaelBonanno/RafaelBonanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The name's Bonanno, Rafael Bonanno - aspiring WebDev, coding enthusiast and vinyl afficionado.
 
-Here are some ideas to get you started:
+🧑‍💻 After working in online-marketing, I entered the fascinating world of coding and WebDev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🕵️‍♂️ Looking for a position as a FullStack Dev (junior?), in a welcoming and positive environment - to deepen my skills and contribute to a meaningful project
+
+🚀 I just completed Le Wagon's WebDev training course (Batch 1012 - Oct-Dec 2022)
+
+📖 I am now proefficient in Ruby (Ruby on Rails), JS (Es6), HTML & CSS, SQL 
+🌱 I’m currently learning Typescript and looking to study soon React!
+
+🗺️ With a colleague at LeWagon, we developped a small phone app for travellers, aimed at facilitating your communication through contextful translations
+🤝 Link: www.hand-shake.me  🤝 
+
+
+🤡 Fun fact: I collect records and I am really nerdy about it 🤓 
+
+
+💬 Feel free to reach out by 📨 at rafael.bonanno@gmail.com / 📱 WhatsApp: +33 6 75 49 90 62
