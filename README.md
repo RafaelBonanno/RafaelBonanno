@@ -8,7 +8,7 @@
 
 🚀 I just completed Le Wagon's WebDev training course (Batch 1012 - Oct-Dec 2022)
 
-📖 I am now proefficient in Ruby (Ruby on Rails), JS (Es6), HTML & CSS, SQL 
+📖 I am now proficient in Ruby (Ruby on Rails), JS (Es6), HTML & CSS, SQL 
 
 🗺️ With a colleague at LeWagon, we developped a small phone app for travellers, aimed at facilitating your communication through contextful translations
 🤝 Link: www.hand-shake.me  🤝
@@ -27,6 +27,6 @@
 
 * 🇲🇫 Native !
 * 🇬🇧 C1 - Fluent 
-* 🇪🇦 B1 - Proefficient
-* 🇮🇹 B1 - Proefficient
+* 🇪🇦 B1 - Proficient
+* 🇮🇹 B1 - Proficient
 * 🇩🇪 Ja Genau (and a few other useful words...)
