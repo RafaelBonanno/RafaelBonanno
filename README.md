@@ -10,13 +10,12 @@
 
 📖 I am now proefficient in Ruby (Ruby on Rails), JS (Es6), HTML & CSS, SQL 
 
+🗺️ With a colleague at LeWagon, we developped a small phone app for travellers, aimed at facilitating your communication through contextful translations
+🤝 Link: www.hand-shake.me  🤝
+
 🌱 I’m currently learning Typescript and looking to study soon React!
 
-🎷 And currently helping my dad on building his own website for his new music instrument repair shop
-
-🗺️ With a colleague at LeWagon, we developped a small phone app for travellers, aimed at facilitating your communication through contextful translations
-🤝 Link: www.hand-shake.me  🤝 
-
+🎷 And helping my dad on building his own website for his new music instrument repair shop 
 
 🤡 Fun fact: I collect records and I am really nerdy about it 🤓 
 
