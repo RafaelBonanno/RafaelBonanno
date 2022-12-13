@@ -19,3 +19,12 @@
 
 
 💬 Feel free to reach out by 📨 at rafael.bonanno@gmail.com / 📱 WhatsApp: +33 6 75 49 90 62
+
+
+## My languages 🌍 
+
+🇲🇫 Native !
+🇬🇧 C1 - Fluent 
+🇪🇦 B1 - Proefficient
+🇮🇹 B1 - Proefficient
+🇩🇪 Ja Genau (and a few other useful words...)
