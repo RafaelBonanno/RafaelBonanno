@@ -12,6 +12,8 @@
 
 🌱 I’m currently learning Typescript and looking to study soon React!
 
+🎷 And currently helping my dad on building his own website for his new music instrument repair shop
+
 🗺️ With a colleague at LeWagon, we developped a small phone app for travellers, aimed at facilitating your communication through contextful translations
 🤝 Link: www.hand-shake.me  🤝 
 
