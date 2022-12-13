@@ -28,5 +28,5 @@
 * 🇲🇫 Native !
 * 🇬🇧 C1 - Fluent 
 * 🇪🇦 B1 - Proefficient
-* 🇮🇹 B1 - Proefficient
+* 🇮🇹 B1 - Proefficient
 * 🇩🇪 Ja Genau (and a few other useful words...)
