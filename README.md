@@ -9,6 +9,7 @@
 🚀 I just completed Le Wagon's WebDev training course (Batch 1012 - Oct-Dec 2022)
 
 📖 I am now proefficient in Ruby (Ruby on Rails), JS (Es6), HTML & CSS, SQL 
+
 🌱 I’m currently learning Typescript and looking to study soon React!
 
 🗺️ With a colleague at LeWagon, we developped a small phone app for travellers, aimed at facilitating your communication through contextful translations
