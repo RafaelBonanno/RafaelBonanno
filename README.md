@@ -1,6 +1,6 @@
 Hi there 👋
 
-The name's Bonanno, Rafael Bonanno - aspiring WebDev, coding enthusiast and vinyl afficionado.
+🤵‍♂️ The name's Bonanno, Rafael Bonanno (he/him) - aspiring WebDev, coding enthusiast and vinyl afficionado.
 
 🧑‍💻 After working in online-marketing, I entered the fascinating world of coding and WebDev
 
