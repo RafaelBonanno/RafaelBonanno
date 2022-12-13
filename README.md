@@ -19,7 +19,7 @@
 🤡 Fun fact: I collect records and I am really nerdy about it 🤓 
 
 
-💬 Feel free to reach out by 📨 at rafael.bonanno@gmail.com / 📱 WhatsApp: +33 6 75 49 90 62
+💬 Feel free to reach out by 📨 at rafael.bonanno@gmail.com / 📱 WhatsApp: +33 6 75 49 90 62 /  🗿 LinkedIn: Rafael Bonanno
 
 
 ## My languages 🌍 
