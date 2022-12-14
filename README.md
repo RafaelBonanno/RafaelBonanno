@@ -10,7 +10,7 @@
 
 📖 I am now proficient in Ruby (Ruby on Rails), JS (Es6), HTML & CSS, SQL 
 
-🗺️ With a colleague at LeWagon, we developped a small phone app for travellers, aimed at facilitating your communication through contextful translations
+🗺️ With a colleague at LeWagon, we developed a small phone app for travelers, aimed at facilitating your communication through contextful translations
 🤝 Link: www.hand-shake.me  🤝
 
 🌱 I’m currently learning Typescript and looking to study soon React!
